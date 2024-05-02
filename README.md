@@ -1,12 +1,10 @@
   <div align=center>
   
-  ### Good to see you here 
-
+  ### Good To See You Here 🫰
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%effysogood&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
 
 ### <div align=center>STACKS</div>
   <div align=center>
-    <br>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img alt="SASS" src ="https://img.shields.io/badge/sass-cc6699.svg?&style=for-the-badge&logo=sass&logoColor=ffffff"/>
