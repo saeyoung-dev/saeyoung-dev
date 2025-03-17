@@ -1,4 +1,4 @@
-<div align="center" style="font-family: Arial, sans-serif;">
+<div style="text-align: center;">
   <img src="https://storage.googleapis.com/elice_04/private/logo.png" alt="Profile Image" width="150" height="150" />
   <p style="margin-bottom: 10px; font-size:30px">Saeyoung Choi</p>
   <p style="margin-bottom: 20px; font-weight: normal; font-size:24px">Product Designer</p>
