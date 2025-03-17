@@ -6,6 +6,7 @@
 #### Product Designer
 
 **[saeyoung-choi.site](https://www.saeyoung-choi.site)**
+<br/>
 **saeyoung.dev@gmail.com**
 
 <br/>
