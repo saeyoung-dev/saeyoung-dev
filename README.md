@@ -1,6 +1,6 @@
 <div align="center" style="font-family: Arial, sans-serif;">
-  <h1 style="margin-bottom: 10px;">Saeyoung Choi</h1>
-  <h2 style="margin-bottom: 20px; font-weight: normal;">Product Designer</h2>
+  <h1 style="margin-bottom: 10px; border:none">Saeyoung Choi</h1>
+  <h2 style="margin-bottom: 20px; font-weight: normal; border:none">Product Designer</h2>
 
   <p style="font-size: 18px; margin: 5px 0;">
     <a href="https://www.saeyoung-choi.site" style="text-decoration: none; color: inherit;">
