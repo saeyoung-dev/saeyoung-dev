@@ -2,8 +2,8 @@
 
   <img src="https://storage.googleapis.com/elice_04/private/logo.png" alt="Profile Image" width="150" height="150" />
 
-  <h1 style="border-bottom: none;">Saeyoung Choi</h1>
-  <h2 style="border-bottom: none;">Product Designer</h2>
+  <h1 style="border-bottom: none !important;">Saeyoung Choi</h1>
+  <h2 style="border-bottom: none !important;">Product Designer</h2>
 
   <p>
     <a href="https://www.saeyoung-choi.site" style="text-decoration: none; font-size: 18px;">
