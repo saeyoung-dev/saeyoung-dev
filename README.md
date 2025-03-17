@@ -1,6 +1,7 @@
 <div align="center" style="font-family: Arial, sans-serif;">
-  <h1 style="margin-bottom: 10px; border:none">Saeyoung Choi</h1>
-  <h2 style="margin-bottom: 20px; font-weight: normal; border:none">Product Designer</h2>
+  <img src="https://drive.google.com/file/d/1kR9b57p_Z2E5H2LAqut2IS7KIRK3uDVt/view?usp=drive_link" alt="Profile Image" width="150" height="150" />
+  <h1 style="margin-bottom: 10px; border-bottom:none !important">Saeyoung Choi</h1>
+  <h2 style="margin-bottom: 20px; font-weight: normal; border-bottom:none !important">Product Designer</h2>
 
   <p style="font-size: 18px; margin: 5px 0;">
     <a href="https://www.saeyoung-choi.site" style="text-decoration: none; color: inherit;">
