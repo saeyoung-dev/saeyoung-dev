@@ -5,8 +5,8 @@
 ### Saeyoung Choi
 #### Product Designer
 
-##### [saeyoung-choi.site](https://www.saeyoung-choi.site)
-##### saeyoung.dev@gmail.com
+**[saeyoung-choi.site](https://www.saeyoung-choi.site)**
+**saeyoung.dev@gmail.com**
 
 <br/>
 
